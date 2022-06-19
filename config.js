@@ -5,7 +5,7 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
+global.owner = ['6285828764 -'] 
 global.mods = ['6285828764046'] 
 global.prems = ['6285828764046'] 
 
