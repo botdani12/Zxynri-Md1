@@ -5,12 +5,15 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6289666747744'] 
+global.owner = ['6285828764046']
+global.mods = ['6289666747744'] 
+global.mods = ['6285828764046']
+global.prems = ['6289666747744'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Zifabotz_offc1'
+global.nameowner = 'PraszXRozi_offc1'
+global.numberowner = '6289666747744'
 global.numberowner = '6285828764046'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
@@ -19,7 +22,7 @@ global.pulsa = '085828764046'
 global.gopay = '085828764046'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = 'XyuziTEAM-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
