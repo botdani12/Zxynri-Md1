@@ -6,24 +6,24 @@
 
 //=============『 Utama 』================== //
 global.owner = ['6289666747744']
-global.owner = ['6285828764046']
+global.owner = ['6281251549899']
 global.mods = ['6289666747744'] 
-global.mods = ['6285828764046
+global.mods = ['6281251549899']
 global.prems = ['6289666747744'] 
-
+global.prems = ['6281251549899']
 //=============『 Info Owner 』============== //
-global.nameowner = 'PraszXRozi_offc1'
+global.nameowner = 'PraszXDani_offc1'
 global.numberowner = '6289666747744'
-global numberowner = '6285828764046'
+global numberowner = '6281251549899'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.dana = '6281251549899'
+global.pulsa = '089666747744'
+global.gopay = '089666747744'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙XyuziteamMD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+global.gc = 'https://chat.whatsapp.com/JeWLsEDrdFk4V0JwI1aVkK'
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
