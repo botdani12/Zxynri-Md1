@@ -37,7 +37,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ❋ཻུ۪۪⸙Xyzuibotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜPraszXRozi_𝙊𝙛𝙛cོ1꧅'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜPraszXDani_𝙊𝙛𝙛cོ1꧅'
 global.wm3 = 'ᯤ Xyuzi𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -48,8 +48,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Xyzuibotz'
-global.author = '@Xyuzi'
+global.packname = 'Danibotz'
+global.author = '@DaniBotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
